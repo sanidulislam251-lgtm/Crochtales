@@ -1,0 +1,6 @@
+{
+  "name": "Crochtales - Handmade Crochet Shop",
+  "description": "An aesthetic e-commerce website for Crochtales, a cozy handmade crochet brand featuring custom parcel notes, product filtering, cart & secure checkout options, brand story, customer reviews, and Instagram integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
